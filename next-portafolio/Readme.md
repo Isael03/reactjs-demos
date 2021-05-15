@@ -2,7 +2,7 @@
 
 ## Ejemplo
 
-![Ejemplo](/example/portafolio_simple.png)
+![Ejemplo](./example/portafolio_simple.png)
 
 ## Herramientas:
 
